@@ -8,7 +8,6 @@
     <body>
         <script>
             var age = -10;
-            // 使用逻辑符号的&&
             age < 0 && (age = 0);
             console.log(age);
         </script>
