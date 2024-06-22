@@ -8,8 +8,7 @@
     <body>
         <script>
             var age = -10;
-						//使用逻辑&&的特点
-            age < 0 && (age = 0);
+            age < 0 && (age = 0)；
             console.log(age);
         </script>
     </body>
